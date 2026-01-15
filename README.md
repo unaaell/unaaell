@@ -1,4 +1,4 @@
-<h1 align="center">Unaaell👋</h1> <p align="center"></p>
+<h1 align="center">UNAA👋</h1> <p align="center"></p>
 
 ![Banner](assets/section.gif)
 
