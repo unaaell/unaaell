@@ -1,6 +1,6 @@
 # Hello World I'm Unaaell👋
 
-![Banner] ()
+![Banner](assets/section.gif)
 
 Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Muhammadiyah Jakarta. I’m deeply fascinated by the world of full-stack development and UI/UX design, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
 
