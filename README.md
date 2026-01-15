@@ -35,3 +35,9 @@ I thrive on turning creative ideas into seamless, interactive experiences with c
 
 
 [https://drive.google.com/file/d/15u2G4uu1g2iKRhVsBNfDsRz1uXvPpnLT/view?usp=drive_link]: https://drive.google.com/file/d/15u2G4uu1g2iKRhVsBNfDsRz1uXvPpnLT/view?usp=drive_link
+
+
+## 🎧 Recently Played on Spotify
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pw2i2byiwh6gimh7aiiab346vy&count=5&width=600)
+
